@@ -18,7 +18,7 @@ Inerpolation.cpp\.h-include functions of Fourier Transform, Trionm, Intepolation
 
 ReadBMP.cpp\.h-include functions for read bmp files.
 
-WriteBMP.cpp\.h-include functions of write bmp files.
+WriteBMP.cpp\.h-include functions for write bmp files.
 
 Ncread.cpp\.h-include functions for read netcdf files.
 
