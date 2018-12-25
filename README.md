@@ -1,4 +1,4 @@
-# wave-power
+# Wave Power
 Forcasting system of wave-power along  the Mediterranean Sea
 
 Background:
@@ -11,14 +11,12 @@ the Mediterranean Sea.
 As part of this, we used several methods(Fourier Transform, trionm, intepolation, etc.).
 In addition, we performed an in-depth analysis of results but you can see all of them only in the document.
 
-Code:
-
 The code is mostly created such that it can be usefull for other unrelated projects.
 The files we have decided to upload are: 
 Inerpolation.cpp\.h-include functions of Fourier Transform, Trionm, Intepolation.
-readBMP.cpp\.h-include functions for read bmp files.
-writeBMP.cpp\.h-include functions of write bmp files.
-ncread.cpp\.h-include functions for read netcdf files.
+ReadBMP.cpp\.h-include functions for read bmp files.
+WriteBMP.cpp\.h-include functions of write bmp files.
+Ncread.cpp\.h-include functions for read netcdf files.
 
 These files used in other files and libraries to run the project.more details you can find in the project document or here:
 https://www.unidata.ucar.edu/software/netcdf/docs/netcdf_8h_source.html,https://www.unidata.ucar.edu/software/netcdf/docs/modules.html
