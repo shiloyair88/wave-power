@@ -9,9 +9,9 @@ addressing both the open sea and the coastal zone.
 In this project, we foucs on one task of the ODYSSEA project - creating a forecasting system of wave-power along 
 the Mediterranean Sea.
 As part of this, we used several methods(Fourier Transform, trionm, intepolation, etc.).
-In addition, we performed an in-depth analysis of results but you can see all of them only in the document.
+In addition, we performed an in-depth analyze of results but you can see all of them only in the document.
 
-The code is mostly created such that it can be usefull for other unrelated projects.
+The code generated in order to be unrelated to other projects.
 The files we have decided to upload are: 
 
 Inerpolation.cpp\.h-includes functions of Fourier Transform, Trionm, Intepolation.
@@ -27,7 +27,7 @@ https://www.unidata.ucar.edu/software/netcdf/docs/netcdf_8h_source.html,https://
 
 https://www.unidata.ucar.edu/software/netcdf/
 
-If God wills, in the future, we will uploaded the files that includes functions that analysis the results.
+If God wills, in the future, we will upload the files that includes functions that analyze the results.
 
 Documnet:
 
