@@ -12,6 +12,7 @@ As part of this, we used several methods(Fourier Transform, trionm, intepolation
 In addition, we performed an in-depth analysis of results.
 
 Code:
+
 The code is mostly created such that it can be usefull for other unrelated projects.
 The files we have decided to upload are: 
 Inerpolation.cpp\h.-include functions of Fourier Transform, Trionm, Intepolation.
@@ -22,7 +23,7 @@ ncread.cpp\.h-include functions for read netcdf files.
 These files used in other files and libraries to run the project.more details you can find in the project document or here:
 https://www.unidata.ucar.edu/software/netcdf/docs/netcdf_8h_source.html,https://www.unidata.ucar.edu/software/netcdf/docs/modules.html
 https://www.unidata.ucar.edu/software/netcdf/
-,
+
 If God wills,(we joked.h-it's healthy),in the future, we will uploaded the files that include functions that analysis the results.
 
 Documnet:
@@ -32,5 +33,5 @@ data analysis results, and technical help to use files.
 
 Contact us:
 
-For more details, please contact us by emails:shiloyair88@gmail.com, 
+For more details, please contact us by emails:shiloyair88@gmail.com, jonathan.merling@gmail.com.
 
