@@ -27,7 +27,7 @@ https://www.unidata.ucar.edu/software/netcdf/docs/netcdf_8h_source.html,https://
 
 https://www.unidata.ucar.edu/software/netcdf/
 
-If God wills,(we joked.h-it's healthy),in the future, we will uploaded the files that includes functions that analysis the results.
+If God wills, in the future, we will uploaded the files that includes functions that analysis the results.
 
 Documnet:
 
