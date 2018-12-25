@@ -15,7 +15,7 @@ Code:
 
 The code is mostly created such that it can be usefull for other unrelated projects.
 The files we have decided to upload are: 
-Inerpolation.cpp\h.-include functions of Fourier Transform, Trionm, Intepolation.
+Inerpolation.cpp\.h-include functions of Fourier Transform, Trionm, Intepolation.
 readBMP.cpp\.h-include functions for read bmp files.
 writeBMP.cpp\.h-include functions of write bmp files.
 ncread.cpp\.h-include functions for read netcdf files.
