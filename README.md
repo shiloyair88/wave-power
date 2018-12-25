@@ -14,25 +14,25 @@ In addition, we performed an in-depth analysis of results but you can see all of
 The code is mostly created such that it can be usefull for other unrelated projects.
 The files we have decided to upload are: 
 
-Inerpolation.cpp\.h-include functions of Fourier Transform, Trionm, Intepolation.
+Inerpolation.cpp\.h-includes functions of Fourier Transform, Trionm, Intepolation.
 
-ReadBMP.cpp\.h-include functions for read bmp files.
+ReadBMP.cpp\.h-includes functions for read bmp files.
 
-WriteBMP.cpp\.h-include functions for write bmp files.
+WriteBMP.cpp\.h-includes functions for write bmp files.
 
-Ncread.cpp\.h-include functions for read netcdf files.
+Ncread.cpp\.h-includes functions for read netcdf files.
 
-These files used in other files and libraries to run the project.more details you can find in the project document or here:
+These files used in other files and libraries to run the project.You can find more details in the project document or here:
 https://www.unidata.ucar.edu/software/netcdf/docs/netcdf_8h_source.html,https://www.unidata.ucar.edu/software/netcdf/docs/modules.html
 
 https://www.unidata.ucar.edu/software/netcdf/
 
-If God wills,(we joked.h-it's healthy),in the future, we will uploaded the files that include functions that analysis the results.
+If God wills,(we joked.h-it's healthy),in the future, we will uploaded the files that includes functions that analysis the results.
 
 Documnet:
 
 We have added a document that describing the methods we used and proof of mathematical correctness,
-data analysis results, and technical help to use files. 
+data analysis results, and technical help to use netcdf files. 
 
 Contact us:
 
