@@ -13,9 +13,13 @@ In addition, we performed an in-depth analysis of results but you can see all of
 
 The code is mostly created such that it can be usefull for other unrelated projects.
 The files we have decided to upload are: 
+
 Inerpolation.cpp\.h-include functions of Fourier Transform, Trionm, Intepolation.
+
 ReadBMP.cpp\.h-include functions for read bmp files.
+
 WriteBMP.cpp\.h-include functions of write bmp files.
+
 Ncread.cpp\.h-include functions for read netcdf files.
 
 These files used in other files and libraries to run the project.more details you can find in the project document or here:
